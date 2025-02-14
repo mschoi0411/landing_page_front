@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_BASE_URL = "http://3.98.8.208:5000"; // 백엔드 주소
+const API_BASE_URL = "http://3.87.70.217:5000"; // 백엔드 주소
 
 // 방문자 기록
 export const trackVisit = () => {
